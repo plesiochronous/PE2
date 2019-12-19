@@ -2,6 +2,8 @@
 Java/OpenGL Engine.
 Pro ty co zajímá tvorba her bez použití už existujicího enginu tak se můžou nechat inspirovat, nedoporučuji kopírovat a používat kód z repozitáře. Je špatně optimalizovaný a zbytečně složitý.
 
+Nejzajímavější třídy: renderEngine.MasterRenderer, shaders.ShaderProgram, renderEngine.Loader; Všechno se to schází ve třídách které jsou v balíku plesioEngine.engineTester.
+
 Pro správný start s OpenGL doporučuji:
 
     "Interactive Computer Graphics: A Top-Down Approach With Shader-Based Opengl" - Edward Angel
