@@ -17,7 +17,3 @@ Pro správný start s OpenGL doporučuji:
     "OpenGL Superbible" (http://www.openglsuperbible.com/) - Tato kniha předpokládá že už jste
     seznámeni s obecnými znalostmi 3D grafiky - co to je vertex, normála, jak se využívají matice apod. 
     Kniha slouží primárně jako reference pro psaní OpenGL kódu.
-    
-
-
-    Veselé Vánoce.
